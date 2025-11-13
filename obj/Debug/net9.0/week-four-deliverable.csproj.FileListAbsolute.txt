@@ -1,0 +1,15 @@
+C:\Users\jessi\Projects\week-four-deliverable\bin\Debug\net9.0\week-four-deliverable.exe
+C:\Users\jessi\Projects\week-four-deliverable\bin\Debug\net9.0\week-four-deliverable.deps.json
+C:\Users\jessi\Projects\week-four-deliverable\bin\Debug\net9.0\week-four-deliverable.runtimeconfig.json
+C:\Users\jessi\Projects\week-four-deliverable\bin\Debug\net9.0\week-four-deliverable.dll
+C:\Users\jessi\Projects\week-four-deliverable\bin\Debug\net9.0\week-four-deliverable.pdb
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.AssemblyInfo.cs
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.sourcelink.json
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.dll
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\refint\week-four-deliverable.dll
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.pdb
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\week-four-deliverable.genruntimeconfig.cache
+C:\Users\jessi\Projects\week-four-deliverable\obj\Debug\net9.0\ref\week-four-deliverable.dll
